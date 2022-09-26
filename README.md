@@ -69,5 +69,5 @@ No mesmo terminal que utilizou na etapa anterior, execute:
 [PowerLevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Dúvidas e Sugestões
-Entre em contato comigo [via Email](vd5fsfx7@anonaddy.me), [Twitter](https://twitter.com/thigcampos_) ou [Reddit](https://www.reddit.com/user/thigcampos_/)
+Entre em contato comigo via [Email](mailto:vd5fsfx7@anonaddy.me), [Twitter](https://twitter.com/thigcampos_) ou [Reddit](https://www.reddit.com/user/thigcampos_/)
 	
